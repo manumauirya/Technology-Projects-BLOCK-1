@@ -38,10 +38,10 @@ Output 3 = $(A + B) \times \overline C$
 ### Match the Expression
 
 **Expressions:**
-1. $A \land B$
-2. $A \lor B$
-3. $\neg A$
-4. $A \oplus B$ (XOR)
+1. $A \land B$ = table B
+2. $A \lor B$ = table C
+3. $\neg A$ = table D
+4. $A \oplus B$ (XOR) = table A
 
 **Truth Tables:**
 
