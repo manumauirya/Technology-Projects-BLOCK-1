@@ -3,7 +3,8 @@ Upload:
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/d801fef6-63bd-43d4-87a5-62a9deb8a66d" />
 
-<img width="531" height="376" alt="image" src="https://github.com/user-attachments/assets/3dfd877b-7a47-4b23-b206-b300a5535f86" />
+<img width="1600" height="1050" alt="image" src="https://github.com/user-attachments/assets/29592090-6252-4541-b13d-c2385f0d35e6" />
+
 
 
 | Component | Function |
