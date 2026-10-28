@@ -9,8 +9,8 @@ images/components/
 |----------|----------|------------------|
 | CPU |Processes instructions and performs calculations |Model, number of cores, clock speed|
 RAM Temporarily stores data |Temporarily stores data used by running programs.|Capacity (GB), DDR type, speed (MHz).|
-| RAM |||
-| Storage | | |
+| RAM 
+| Storage|Stores the operating system, applications, and files.| SSD/HDD, capacity (GB or TB)|
 | Motherboard | | |
 | Power Supply | | |
 | Cooling | | |
