@@ -24,6 +24,7 @@ Raspberry-pi/labelled-pi-board
 
 ---
 ## Reflection
+
 Why are many components integrated into a single board in embedded computers such as the Raspberry Pi?
-Write **100 words**.
+
 The Raspberry Pi has many parts on one board because it makes the computer small, cheap and easy to use. All the main parts are already connected, so we do not need to connect them separately. It also needs less space and uses less electricity. The parts can work together easily. We can use the Raspberry Pi for different things, like making robots, learning coding and controlling smart devices at home. Having everything on one board makes it easier for students to learn about computers and make their own projects.
