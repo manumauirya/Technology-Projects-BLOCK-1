@@ -5,8 +5,6 @@ Upload:
 
 <img width="531" height="376" alt="image" src="https://github.com/user-attachments/assets/3dfd877b-7a47-4b23-b206-b300a5535f86" />
 
-```
----
 
 | Component | Function |
 |-----------|----------|
