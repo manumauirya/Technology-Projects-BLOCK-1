@@ -3,7 +3,8 @@
 Describe the computer before opening it.
 Insert image:
 ```
-<img width="450" height="322" alt="image" src="https://github.com/user-attachments/assets/d9ef34b0-4047-43eb-940b-f5b90d3287a6" />
+<img width="492" height="406" alt="image" src="https://github.com/user-attachments/assets/f53278cf-f2e2-4473-bfa7-a120c3e8896a" />
+
 
 The computer is a desktop PC with a closed case. The front panel contains a power button, USB ports, and audio ports.
  The side panel covers and protects the internal components, including the motherboard, CPU, RAM, and storage drive.
