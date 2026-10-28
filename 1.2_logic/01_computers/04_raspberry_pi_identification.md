@@ -11,6 +11,10 @@ Raspberry-pi/labelled-pi-board
 
 
 
+
+
+
+
 | Component | Function |
 |-----------|----------|
 | SoC |Contains the processor (CPU), GPU and other components on a single chip.|
