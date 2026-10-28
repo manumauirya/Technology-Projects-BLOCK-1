@@ -2,8 +2,7 @@
 ## Before Opening the Computer
 Describe the computer before opening it.
 Insert image:
-```
-<img width="492" height="406" alt="image" src="https://github.com/user-attachments/assets/f53278cf-f2e2-4473-bfa7-a120c3e8896a" />
+<img width="492" height="406" alt="image" src="https://github.com/user-attachments/assets/82d6c5c4-6fc3-4434-8dab-40fec19fd746" />
 
 
 The computer is a desktop PC with a closed case. The front panel contains a power button, USB ports, and audio ports.
