@@ -1,4 +1,5 @@
-<img width="555" height="658" alt="Screenshot 2026-10-28 194600" src="https://github.com/user-attachments/assets/a2665835-3dfa-48ed-9231-b4bf029f04fc" />
+
+
 ## 🐍 Checkpoint 5 — Python Script (commit: `py-basic`)
 **Files**: `python/script.py`
 
@@ -13,5 +14,8 @@ python3 script.py
 ```
 **Prompts (add to `journal/05_python.md`)**:
 - Screenshot with the program output.
+
+<img width="570" height="586" alt="Screenshot 2026-10-28 194604" src="https://github.com/user-attachments/assets/4ba3db2a-5817-485e-8440-0470c927a747" />
+
 - In one paragraph: interpretation vs compilation.
 
