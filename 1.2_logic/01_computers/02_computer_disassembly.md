@@ -2,6 +2,7 @@
 ## Before Opening the Computer
 Describe the computer before opening it.
 Insert image:
+
 <img width="492" height="406" alt="image" src="https://github.com/user-attachments/assets/82d6c5c4-6fc3-4434-8dab-40fec19fd746" />
 
 
