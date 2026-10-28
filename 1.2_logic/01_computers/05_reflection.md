@@ -10,6 +10,6 @@ I also learned that RAM temporarily holds information while the computer is on.T
 some looked very similar at first. I also had to be careful handling them so nothing broke. But as I spent more time learning what each 
 part does, it got much easier to recognize them. We also looked at smaller computer boards like the Raspberry Pi.
 Unlike regular desktop computers, these are built for simple, specific tasks. They put many parts onto one small board to 
-save space, cut costs, and use less power. You can find them in things like smart TVs and home security systems.
+save space, cut costs, and use less power.
 ​Overall, getting hands-on practice helped me understand the lessons much better. I feel much more comfortable with 
 computer hardware now and ready to learn more in the future.
